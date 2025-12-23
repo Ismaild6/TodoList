@@ -1,74 +1,84 @@
-<<<<<<< HEAD
-# TodoList
-=======
-# Getting Started with Create React App
+Todo List Application (React)
+📖 Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and responsive Todo List application built using React.js that helps users manage daily tasks efficiently. The application supports creating, updating, deleting, and completing tasks, showcasing strong fundamentals in React and modern frontend development.
 
-## Available Scripts
+✨ Features
 
-In the project directory, you can run:
+Add new tasks
 
-### `npm start`
+Edit existing tasks
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Delete tasks
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mark tasks as completed
 
-### `npm test`
+Real-time UI updates
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Responsive design
 
-### `npm run build`
+🛠 Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React.js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+JavaScript (ES6+)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+HTML5
 
-### `npm run eject`
+CSS3
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🔍 Key Concepts
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Component-based architecture
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+React Hooks (useState)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+State & props management
 
-## Learn More
+Event handling
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Conditional rendering
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📁 Project Structure
+src/
+├── components/
+│   └── TodoItem.js
+├── App.js
+├── index.js
+└── styles.css
 
-### Code Splitting
+▶️ Getting Started
+Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Node.js
 
-### Analyzing the Bundle Size
+npm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Installation & Run
+git clone <repository-url>
+cd todo-list
+npm install
+npm start
 
-### Making a Progressive Web App
+🎯 Outcomes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Built reusable React components
 
-### Advanced Configuration
+Improved problem-solving and UI design skills
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Hands-on experience with React fundamentals
 
-### Deployment
+🚀 Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Persist tasks using localStorage
 
-### `npm run build` fails to minify
+Backend integration using Spring Boot REST APIs
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 77918df (Initialize project using Create React App)
+Add authentication and task filters
+
+🔑 Why this format is good
+
+✔ Clean
+✔ ATS-friendly
+✔ Recruiter-readable
+✔ Interview-safe
